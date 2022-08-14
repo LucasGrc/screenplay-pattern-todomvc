@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Download the app","Should see the number of todos decrease when an item is completed","SUCCESS","2022-08-14T23:30:43.387021067Z[Etc/UTC]","0.0","1.18"
